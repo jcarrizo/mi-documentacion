@@ -1,0 +1,8 @@
+{
+  "label": "Documentacion General",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Documentacion de proyecto web Consulty, sistema de gestion para consultorios mendicos"
+  }
+}
